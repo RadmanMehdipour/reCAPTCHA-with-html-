@@ -8,7 +8,7 @@ Easily integrate reCAPTCHA into your website using the following code:
 <Radco-reCaptcha></Radco-reCaptcha>
 ```
 
-## 📌 How to Use  
+##  How to Use  
 
 ### 1️⃣ Add reCAPTCHA to Your Website  
 Paste the above code inside your HTML file where you want the reCAPTCHA to appear.  
@@ -22,11 +22,11 @@ Use the following JavaScript code in your website’s JavaScript file to check t
 
 ```javascript
 if(results == false) {
-    alert("✅ You are human.");
+    alert(" You are human.");
 } else if(results == true) {
-    alert("🤖 You are a bot.");
+    alert(" You are a bot.");
 } else if(results == null) {
-    alert("⚠️ Please complete the reCAPTCHA.");
+    alert(" Please complete the reCAPTCHA.");
 }
 ```
 
