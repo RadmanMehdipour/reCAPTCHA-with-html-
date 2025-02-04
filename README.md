@@ -1,4 +1,5 @@
-# reCAPTCHA with HTML       V 1.2.9
+# reCAPTCHA with HTML      
+### V 1.2.9
 
 Easily integrate reCAPTCHA into your website using the following code:  
 
